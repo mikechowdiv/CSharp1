@@ -1,0 +1,38 @@
+
+
+
+Models
+	- Account
+		Name
+		AcctNum
+		Balance
+		AcctType Type
+
+	- AcctType
+		Free / Basic / Premium
+
+	- Interfaces
+		- IAcctRepo
+			- LoadAcct(AcctNum)
+			- SaveAcct(Account acct)
+		- IDeposit
+			- AcctDepoResp Deposit(Account acct, amt)
+		- IWithdraw
+			- AcctWithdrawResp Withdraw(Account acct, amt)
+
+	- Responses
+		- Responses
+			- Success / Message
+		- AcctDepoResp : Responses
+			- Account Acct
+			- Amt
+			- OldBal
+		- AcctResp : Responses
+			- Account Acct
+		- AcctWithdrawResp: Responses
+			- Account Acct
+			- OldBal
+			- Amt
+
+Data
+	- 

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSystem", "StudentManagementSystem\StudentManagementSystem.csproj", "{128D4FBB-457B-4D8C-8775-46EAACA04FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIO.tests", "SystemIO.tests\SystemIO.tests.csproj", "{F8C9A498-4527-45A6-89B8-3165530D60BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128D4FBB-457B-4D8C-8775-46EAACA04FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128D4FBB-457B-4D8C-8775-46EAACA04FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128D4FBB-457B-4D8C-8775-46EAACA04FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128D4FBB-457B-4D8C-8775-46EAACA04FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C9A498-4527-45A6-89B8-3165530D60BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C9A498-4527-45A6-89B8-3165530D60BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C9A498-4527-45A6-89B8-3165530D60BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C9A498-4527-45A6-89B8-3165530D60BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystemv2\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystemv2\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystemv2\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystemv2\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystemv2\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystemv2\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache

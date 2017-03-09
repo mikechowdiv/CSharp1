@@ -1,0 +1,6 @@
+E:\workspace\SG-works\assignments\GuessingGame1\GuessingGame1\bin\Debug\GuessingGame1.exe.config
+E:\workspace\SG-works\assignments\GuessingGame1\GuessingGame1\bin\Debug\GuessingGame1.exe
+E:\workspace\SG-works\assignments\GuessingGame1\GuessingGame1\bin\Debug\GuessingGame1.pdb
+E:\workspace\SG-works\assignments\GuessingGame1\GuessingGame1\obj\Debug\GuessingGame1.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\assignments\GuessingGame1\GuessingGame1\obj\Debug\GuessingGame1.exe
+E:\workspace\SG-works\assignments\GuessingGame1\GuessingGame1\obj\Debug\GuessingGame1.pdb

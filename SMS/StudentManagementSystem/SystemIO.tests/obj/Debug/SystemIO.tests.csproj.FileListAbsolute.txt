@@ -1,0 +1,9 @@
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\bin\Debug\SystemIO.tests.dll
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\bin\Debug\SystemIO.tests.pdb
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\bin\Debug\nunit.framework.dll
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\bin\Debug\StudentManagementSystem.exe
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\bin\Debug\StudentManagementSystem.pdb
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\bin\Debug\nunit.framework.xml
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\obj\Debug\SystemIO.tests.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\obj\Debug\SystemIO.tests.dll
+E:\workspace\SG-works\assignments\SMS\StudentManagementSystem\SystemIO.tests\obj\Debug\SystemIO.tests.pdb

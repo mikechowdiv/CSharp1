@@ -1,0 +1,5 @@
+E:\workspace\SG-works\assignments\StopWatchDemo\StopWatchDemo\bin\Debug\StopWatchDemo.exe.config
+E:\workspace\SG-works\assignments\StopWatchDemo\StopWatchDemo\bin\Debug\StopWatchDemo.exe
+E:\workspace\SG-works\assignments\StopWatchDemo\StopWatchDemo\bin\Debug\StopWatchDemo.pdb
+E:\workspace\SG-works\assignments\StopWatchDemo\StopWatchDemo\obj\Debug\StopWatchDemo.exe
+E:\workspace\SG-works\assignments\StopWatchDemo\StopWatchDemo\obj\Debug\StopWatchDemo.pdb

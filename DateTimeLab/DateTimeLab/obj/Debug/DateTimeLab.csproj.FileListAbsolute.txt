@@ -1,0 +1,6 @@
+E:\workspace\SG-works\assignments\DateTimeLab\DateTimeLab\bin\Debug\DateTimeLab.exe.config
+E:\workspace\SG-works\assignments\DateTimeLab\DateTimeLab\bin\Debug\DateTimeLab.exe
+E:\workspace\SG-works\assignments\DateTimeLab\DateTimeLab\bin\Debug\DateTimeLab.pdb
+E:\workspace\SG-works\assignments\DateTimeLab\DateTimeLab\obj\Debug\DateTimeLab.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\assignments\DateTimeLab\DateTimeLab\obj\Debug\DateTimeLab.exe
+E:\workspace\SG-works\assignments\DateTimeLab\DateTimeLab\obj\Debug\DateTimeLab.pdb
